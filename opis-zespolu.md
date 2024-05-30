@@ -11,10 +11,17 @@ Telefon: 987-654-321
 E-mail: anna.nowak@davinci-pizza.com  
 
 ## Kucharze
+1. Adam Wiśniewski  
+2. Maria Dąbrowska  
+3. Piotr Nowakowski  
 
 ## Dostawcy
+1. Andrzej Zając  
+2. Marta Kowalczyk  
 
 ## Kelnerzy
+1. Karolina Lewandowska  
+2. Michał Jankowski  
 
 ## Grafik
 
