@@ -11,9 +11,9 @@
 ### Rozmiary i Ceny:
 | Rozmiar | Cena | Średnica (cm) |
 |---------|------|---------------|
-| Mała    | 20 zł| 25            |
+| Mała    | 18 zł| 25            |
 | Średnia | 25 zł| 30            |
-| Duża    | 30 zł| 35            |
+| Duża    | 35 zł| 35            |
 
 ### Dodatki:
 - Pieczarki: 3 zł
