@@ -8,6 +8,7 @@
 - Mozzarella
 - Liście bazylii
 - Oliwa z oliwek
+- Soł morska
 - Pieprz
 
 ### Instrukcje:
