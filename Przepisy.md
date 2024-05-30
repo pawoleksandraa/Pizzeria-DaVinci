@@ -55,7 +55,7 @@
 - Pieprz
 
 ### Instrukcje:
-1. Rozgrzej piekarnik do 220°C.
+1. Rozgrzej piekarnik do 250°C.
 2. Rozwałkuj ciasto na okrągłą formę.
 3. Nałóż równomiernie sos pomidorowy na ciasto.
 4. Pokryj sos pomidorowy plasterkami mozzarelli.
