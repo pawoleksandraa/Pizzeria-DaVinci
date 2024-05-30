@@ -49,4 +49,4 @@ E-mail: pawel.wozniak@davinci-pizza.com
 
 ## Specjalista social mediow 
 Imię i nazwisko: Maja Konia 
- 
+Telefon: 111-222-335
