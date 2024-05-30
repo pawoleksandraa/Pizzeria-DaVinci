@@ -108,6 +108,30 @@
 6. Dodaj kilka kostek lodu do lemoniady i dokładnie wymieszaj.
 7. Przed podaniem dodaj kilka plasterków cytryny i listków mięty do dekoracji.
 
+## Sałatka Letnia
+
+### Składniki:
+- 1 główka sałaty masłowej
+- 1 ogórek
+- 2 pomidory
+- 1 czerwona cebula
+- 1 papryka czerwona
+- 1 papryka zielona
+- 100 g sera feta
+- Kilka plasterków cytryny do dekoracji
+- Sól i pieprz do smaku
+- Dressing do sałatek
+
+### Instrukcje:
+1. Umieść liście sałaty w dużej misce.
+2. Pokrój ogórka w plastry i dodaj do sałaty.
+3. Pokrój pomidory w kostkę i dodaj do sałaty.
+4. Pokrój cebulę w piórka i dodaj do sałaty.
+5. Pokrój paprykę czerwoną i zieloną w paski i dodaj do sałaty.
+6. Pokrusz ser fetę i posyp na sałatkę.
+7. Dopraw sałatkę solą i pieprzem według własnego uznania.
+8. Dodaj dressing do sałatki i delikatnie wymieszaj, aby wszystkie składniki były pokryte sosem.
+9. Przed podaniem udekoruj sałatkę kilkoma plasterkami cytryny.
 
 
 
