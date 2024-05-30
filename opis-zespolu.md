@@ -46,3 +46,5 @@ E-mail: monika.kaczmarek@davinci-pizza.com
 Imię i nazwisko: Paweł Woźniak  
 Telefon: 111-222-333  
 E-mail: pawel.wozniak@davinci-pizza.com  
+
+## Specjalista social mediow 
