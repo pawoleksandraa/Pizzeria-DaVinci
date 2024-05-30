@@ -39,7 +39,7 @@ E-mail: anna.nowak@davinci-pizza.com
 
 ## Grafik
 Imię i nazwisko: Monika Kaczmarek  
-Telefon: 555-555-555  
+Telefon: 555-555-578 
 E-mail: monika.kaczmarek@davinci-pizza.com  
 
 ## Specjalista ds. obsługi klienta
