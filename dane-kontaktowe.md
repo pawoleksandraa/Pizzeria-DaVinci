@@ -10,3 +10,6 @@ ul. Pizzerii 10
 **E-mail:**
 info@davinci-pizza.com
 
+**Godziny otwarcia:**
+Poniedziałek - Sobota: 11:00 - 22:00
+Niedziela: 12:00 - 20:00
