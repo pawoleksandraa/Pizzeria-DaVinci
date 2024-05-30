@@ -29,3 +29,6 @@ Telefon: 555-555-555
 E-mail: monika.kaczmarek@davinci-pizza.com  
 
 ## Specjalista ds. obsługi klienta
+Imię i nazwisko: Paweł Woźniak  
+Telefon: 111-222-333  
+E-mail: pawel.wozniak@davinci-pizza.com  
