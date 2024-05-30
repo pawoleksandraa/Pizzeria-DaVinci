@@ -108,6 +108,7 @@
 - Czarne oliwki: 3 zł
 
 ## Sałatki Vege
+<img src="pexels-iina-luoto-460132-1211887.jpg" width="250"/>
 
 ### Ceny:
 1. **Sałatka Grecka**
