@@ -24,5 +24,8 @@ E-mail: anna.nowak@davinci-pizza.com
 2. Michał Jankowski  
 
 ## Grafik
+Imię i nazwisko: Monika Kaczmarek  
+Telefon: 555-555-555  
+E-mail: monika.kaczmarek@davinci-pizza.com  
 
 ## Specjalista ds. obsługi klienta
