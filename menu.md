@@ -1,59 +1,69 @@
 # Menu Pizzerii "DaVinci"
 
 ## Pizza Margherita
-![Pizza Margherita](https://images.pexels.com/photos/5792329/pexels-photo-5792329.jpeg)
+<img src="https://images.pexels.com/photos/5792329/pexels-photo-5792329.jpeg" alt="Pizza Margherita" width="250"/>
+
 ### Składniki:
 - Sos pomidorowy
 - Mozzarella
 - Bazylia
-### Ceny:
-| Rozmiar | Cena |
-|---------|------|
-| Mała    | 20 zł|
-| Średnia | 25 zł|
-| Duża   | 30 zł|
+  
+### Rozmiary i Ceny:
+| Rozmiar | Cena | Średnica (cm) |
+|---------|------|---------------|
+| Mała    | 20 zł| 25            |
+| Średnia | 25 zł| 30            |
+| Duża    | 30 zł| 35            |
+
 ### Dodatki:
 - Pieczarki: 3 zł
 - Oliwki: 3 zł
-- Kiełbasa: 5 zł
+- Salami: 5 zł
 
 ## Pizza Pepperoni
-![Pizza Pepperoni](https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg)
+<img src="https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg" alt="Pizza Pepperoni" width="250"/>
+
 ### Składniki:
 - Sos pomidorowy
 - Mozzarella
 - Pikantna pepperoni
-### Ceny:
-| Rozmiar | Cena |
-|---------|------|
-| Mała    | 22 zł|
-| Średnia | 27 zł|
-| Duża   | 32 zł|
+  
+### Rozmiary i Ceny:
+| Rozmiar | Cena | Średnica (cm) |
+|---------|------|---------------|
+| Mała    | 22 zł| 25            |
+| Średnia | 27 zł| 30            |
+| Duża    | 32 zł| 35            |
+
 ### Dodatki:
-- Pieczarki: 3 zł
-- Papryka: 3 zł
 - Cebula: 2 zł
+- Papryka: 3 zł
+- Kukurydza: 3 zł
 
 ## Pizza Hawajska
-![Pizza Hawajska](https://images.pexels.com/photos/4109083/pexels-photo-4109083.jpeg)
+<img src="https://images.pexels.com/photos/4109083/pexels-photo-4109083.jpeg" alt="Pizza Hawajska" width="250"/>
+
 ### Składniki:
 - Sos pomidorowy
 - Mozzarella
 - Szynka
 - Ananas
-### Ceny:
-| Rozmiar | Cena |
-|---------|------|
-| Mała    | 24 zł|
-| Średnia | 29 zł|
-| Duża   | 34 zł|
+  
+### Rozmiary i Ceny:
+| Rozmiar | Cena | Średnica (cm) |
+|---------|------|---------------|
+| Mała    | 24 zł| 25            |
+| Średnia | 29 zł| 30            |
+| Duża    | 34 zł| 35            |
+
 ### Dodatki:
 - Pieczarki: 3 zł
-- Oliwki: 3 zł
-- Kukurydza: 2 zł
+- Pomidory koktajlowe: 4 zł
+- Kiełbasa wegańska: 6 zł
 
 ## Pizza Capricciosa
-![Pizza Capricciosa](https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg)
+<img src="https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg" alt="Pizza Capricciosa" width="250"/>
+
 ### Składniki:
 - Sos pomidorowy
 - Mozzarella
@@ -61,19 +71,22 @@
 - Szynka
 - Oliwki
 - Karczochy
-### Ceny:
-| Rozmiar | Cena |
-|---------|------|
-| Mała    | 26 zł|
-| Średnia | 31 zł|
-| Duża   | 36 zł|
+  
+### Rozmiary i Ceny:
+| Rozmiar | Cena | Średnica (cm) |
+|---------|------|---------------|
+| Mała    | 26 zł| 25            |
+| Średnia | 31 zł| 30            |
+| Duża    | 36 zł| 35            |
+
 ### Dodatki:
-- Ananas: 3 zł
-- Cebula: 2 zł
-- Kiełbasa: 5 zł
+- Ser feta: 4 zł
+- Pomidory suszone: 3 zł
+- Rukola: 3 zł
 
 ## Pizza Quattro Stagioni
-![Pizza Quattro Stagioni](https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg)
+<img src="https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg" alt="Pizza Quattro Stagioni" width="250"/>
+
 ### Składniki:
 - Sos pomidorowy
 - Mozzarella
@@ -81,23 +94,55 @@
 - Pieczarki
 - Karczochy
 - Oliwki
-### Ceny:
-| Rozmiar | Cena |
-|---------|------|
-| Mała    | 28 zł|
-| Średnia | 33 zł|
-| Duża   | 38 zł|
+  
+### Rozmiary i Ceny:
+| Rozmiar | Cena | Średnica (cm) |
+|---------|------|---------------|
+| Mała    | 28 zł| 25            |
+| Średnia | 33 zł| 30            |
+| Duża    | 38 zł| 35            |
+
 ### Dodatki:
-- Papryka: 3 zł
-- Salami: 4 zł
-- Szpinak: 3 zł
+- Pomidory koktajlowe: 4 zł
+- Salami: 5 zł
+- Czarne oliwki: 3 zł
 
+## Sałatki Vege
+
+### Ceny:
+1. **Sałatka Grecka**
+   - Składniki: Sałata rzymska, Pomidory koktajlowe, Ogórki kiszone, Czerwona cebula, Oliwki kalamata, Ser feta
+   - Waga: 300g
+   - Cena: 18 zł
+
+2. **Sałatka Caprese**
+   - Składniki: Pomidory, Mozzarella, Świeża bazylia, Oliwa z oliwek, Sól i pieprz
+   - Waga: 250g
+   - Cena: 22 zł
+
+3. **Sałatka z awokado i mango**
+   - Składniki: Sałata mieszana, Awokado, Mango, Czerwona cebula, Zielony groszek, Kolendra, Sok z limonki
+   - Waga: 280g
+   - Cena: 25 zł
+
+4. **Sałatka z quinoa i warzywami**
+   - Składniki: Quinoa, Pomidory koktajlowe, Ogórek, Papryka czerwona, Marchew, Szpinak, Sok z cytryny, Oliwa z oliwek
+   - Waga: 320g
+   - Cena: 20 zł
+
+5. **Sałatka z soczewicą**
+   - Składniki: Soczewica, Pomidory, Ogórek, Czerwona cebula, Pietruszka, Seler naciowy, Sok z cytryny, Oliwa z oliwek
+   - Waga: 300g
+   - Cena: 21 zł
+     
 ## Napoje
-| Napój             | Cena |
-|-------------------|------|
-| Cola              | 5 zł |
-| Lemoniada         | 6 zł |
-| Woda mineralna    | 3 zł |
-| Sok pomarańczowy  | 4 zł |
-| Herbata           | 4 zł |
+<img src="https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg" alt="Napoje" width="250"/>
 
+### Ceny:
+| Napój             | Cena | Pojemność (ml) |
+|-------------------|------|----------------|
+| Cola              | 5 zł | 330            |
+| Lemoniada         | 6 zł | 400            |
+| Woda mineralna    | 3 zł | 500            |
+| Sok pomarańczowy  | 4 zł | 350            |
+| Herbata           | 4 zł | 300            |
