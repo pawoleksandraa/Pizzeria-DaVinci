@@ -7,3 +7,6 @@ ul. Pizzerii 10
 **Telefon:**
 123-456-789
 
+**E-mail:**
+info@davinci-pizza.com
+
