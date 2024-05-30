@@ -107,6 +107,35 @@
 - Salami: 5 zł
 - Czarne oliwki: 3 zł
 
+## Sałatki Vege
+<img src="pexels-iina-luoto-460132-1211887.jpg" width="250"/>
+
+### Ceny:
+1. **Sałatka Grecka**
+   - Składniki: Sałata rzymska, Pomidory koktajlowe, Ogórki kiszone, Czerwona cebula, Oliwki kalamata, Ser feta
+   - Waga: 300g
+   - Cena: 18 zł
+
+2. **Sałatka Caprese**
+   - Składniki: Pomidory, Mozzarella, Świeża bazylia, Oliwa z oliwek, Sól i pieprz
+   - Waga: 250g
+   - Cena: 22 zł
+
+3. **Sałatka z awokado i mango**
+   - Składniki: Sałata mieszana, Awokado, Mango, Czerwona cebula, Zielony groszek, Kolendra, Sok z limonki
+   - Waga: 280g
+   - Cena: 25 zł
+
+4. **Sałatka z quinoa i warzywami**
+   - Składniki: Quinoa, Pomidory koktajlowe, Ogórek, Papryka czerwona, Marchew, Szpinak, Sok z cytryny, Oliwa z oliwek
+   - Waga: 320g
+   - Cena: 20 zł
+
+5. **Sałatka z soczewicą**
+   - Składniki: Soczewica, Pomidory, Ogórek, Czerwona cebula, Pietruszka, Seler naciowy, Sok z cytryny, Oliwa z oliwek
+   - Waga: 300g
+   - Cena: 21 zł
+     
 ## Napoje
 <img src="https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg" alt="Napoje" width="250"/>
 
