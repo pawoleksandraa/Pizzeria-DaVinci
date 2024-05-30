@@ -88,3 +88,24 @@
 6. Skrop wszystko oliwą z oliwek, posól i popieprz.
 7. Piecz w nagrzanym piekarniku przez około 12-15 minut, aż ciasto będzie złociste.
 8. Wyjmij z piekarnika, pokrój i podawaj.
+
+## Lemoniada
+
+### Składniki:
+- 4 świeże cytryny
+- 1 szklanka cukru
+- 6 szklanek wody
+- Kilka plasterków cytryny do dekoracji
+- Kilka listków mięty do dekoracji
+- Kostki lodu
+
+### Instrukcje:
+1. W rondelku zagotuj jedną szklankę wody.
+2. Dodaj cukier do wrzącej wody i mieszaj, aż się całkowicie rozpuści. Odstaw, aby syrop ostygł.
+3. Wyciśnij sok z cytryn i przelej go do dzbanka.
+4. Dodaj pozostałe pięć szklanek zimnej wody do dzbanka.
+5. Dodaj przygotowany syrop cukrowy do cytrynowego soku i wody w dzbanku. Dokładnie wymieszaj.
+6. Dodaj kilka kostek lodu do lemoniady i dokładnie wymieszaj.
+7. Przed podaniem dodaj kilka plasterków cytryny i listków mięty do dekoracji.
+
+Lemoniada jest gotowa do podania. Podawaj schłodzoną z dodatkiem lodu i plasterków cytryny oraz listków mięty.
