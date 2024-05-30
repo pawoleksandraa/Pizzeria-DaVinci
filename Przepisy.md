@@ -64,3 +64,27 @@
 7. Skrop oliwą z oliwek, posól i popieprz.
 8. Piecz w nagrzanym piekarniku przez około 12-15 minut, aż ciasto będzie złociste.
 9. Wyjmij z piekarnika, pokrój i podawaj.
+
+## Pizza Capricciosa
+
+### Składniki:
+- Ciasto do pizzy
+- Sos pomidorowy
+- Mozzarella
+- Pieczarki
+- Szynka
+- Oliwki
+- Karczochy
+- Oliwa z oliwek
+- Sól
+- Pieprz
+
+### Instrukcje:
+1. Rozgrzej piekarnik do 220°C.
+2. Rozwałkuj ciasto na okrągłą formę.
+3. Nałóż równomiernie sos pomidorowy na ciasto.
+4. Posyp całość startą mozzarellą.
+5. Rozłóż na wierzchu pokrojone w plastry pieczarki, szynkę, pokrojone oliwki i karczochy.
+6. Skrop wszystko oliwą z oliwek, posól i popieprz.
+7. Piecz w nagrzanym piekarniku przez około 12-15 minut, aż ciasto będzie złociste.
+8. Wyjmij z piekarnika, pokrój i podawaj.
