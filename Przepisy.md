@@ -108,4 +108,6 @@
 6. Dodaj kilka kostek lodu do lemoniady i dokładnie wymieszaj.
 7. Przed podaniem dodaj kilka plasterków cytryny i listków mięty do dekoracji.
 
-Lemoniada jest gotowa do podania. Podawaj schłodzoną z dodatkiem lodu i plasterków cytryny oraz listków mięty.
+
+
+
